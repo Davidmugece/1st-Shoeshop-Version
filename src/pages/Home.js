@@ -9,8 +9,8 @@ const Home = () => {
                     <div className="row justify-content-between">
                         <div className="col-lg-5">
                             <div className="intro-excerpt">
-                                <h1>Modern Interior <span className="d-block">Design Studio</span></h1>
-                                <p className="mb-4">Donec vitae odio quis nisl dapibus malesuada. Nullam ac aliquet velit. Aliquam vulputate velit imperdiet dolor tempor tristique.</p>
+                                <h1>Made for every <span className="d-block">one of us</span></h1>
+                                <p className="mb-4">To Step out in style, and total confidence. Start exploring our comfort collection</p>
                                 <p><a href="#" className="btn btn-secondary me-2">Shop Now</a><a href="#" className="btn btn-white-outline">Explore</a></p>
                             </div>
                         </div>
@@ -32,7 +32,7 @@ const Home = () => {
                         {/* Start Column 1 */}
                         <div className="col-md-12 col-lg-3 mb-5 mb-lg-0">
                             <h2 className="mb-4 section-title">Crafted with excellent material.</h2>
-                            <p className="mb-4">Donec vitae odio quis nisl dapibus malesuada. Nullam ac aliquet velit. Aliquam vulputate velit imperdiet dolor tempor tristique.</p>
+                            <p className="mb-4">Discovering stylish comfortable shoes for women is now easy, whether you're on the hunt for elegant office footwear or casual options for your weekend wardrobe. At Backyard Shoez, we present a range of professional and comfortable work shoes for women</p>
                             <p><a href="shop.html" className="btn">Explore</a></p>
                         </div> 
                         {/* End Column 1 */}
@@ -41,8 +41,8 @@ const Home = () => {
                         <div className="col-12 col-md-4 col-lg-3 mb-5 mb-md-0">
                             <a className="product-item" href="cart.html">
                                 <img src="images/product-1.png" className="img-fluid product-thumbnail" alt="Product 1" />
-                                <h3 className="product-title">Nordic Chair</h3>
-                                <strong className="product-price">$50.00</strong>
+                                <h3 className="product-title">Jordan 1 Low "Paris"</h3>
+                                <strong className="product-price">$55.00</strong>
 
                                 <span className="icon-cross">
                                     <img src="images/cross.svg" className="img-fluid" alt="Cross" />
@@ -55,7 +55,7 @@ const Home = () => {
                         <div className="col-12 col-md-4 col-lg-3 mb-5 mb-md-0">
                             <a className="product-item" href="cart.html">
                                 <img src="images/product-2.png" className="img-fluid product-thumbnail" alt="Product 2" />
-                                <h3 className="product-title">Kruzo Aero Chair</h3>
+                                <h3 className="product-title">Jordan 4 Retro "Black/Grey/White"</h3>
                                 <strong className="product-price">$78.00</strong>
 
                                 <span className="icon-cross">
@@ -69,7 +69,7 @@ const Home = () => {
                         <div className="col-12 col-md-4 col-lg-3 mb-5 mb-md-0">
                             <a className="product-item" href="cart.html">
                                 <img src="images/product-3.png" className="img-fluid product-thumbnail" alt="Product 3" />
-                                <h3 className="product-title">Ergonomic Chair</h3>
+                                <h3 className="product-title">Dunk low "Grey Fog”</h3>
                                 <strong className="product-price">$43.00</strong>
 
                                 <span className="icon-cross">
@@ -90,7 +90,7 @@ const Home = () => {
                     <div className="row justify-content-between">
                         <div className="col-lg-6">
                             <h2 className="section-title">Why Choose Us</h2>
-                            <p>Donec vitae odio quis nisl dapibus malesuada. Nullam ac aliquet velit. Aliquam vulputate velit imperdiet dolor tempor tristique.</p>
+                            <p>Kicks Kenya's dedicated staff, dynamic environment, and commitment to exceptional customer service all provide a unique experience for buyers. We have also increased our employee number to more than 18 permanent employees and several casual workers. </p>
 
                             <div className="row my-5">
                                 <div className="col-6 col-md-6">
@@ -99,7 +99,7 @@ const Home = () => {
                                             <img src="images/truck.svg" alt="Fast & Free Shipping" className="imf-fluid" />
                                         </div>
                                         <h3>Fast &amp; Free Shipping</h3>
-                                        <p>Donec vitae odio quis nisl dapibus malesuada. Nullam ac aliquet velit. Aliquam vulputate.</p>
+                                        <p>Kicks Kenya's dedicated staff, dynamic environment, and commitment to exceptional customer service all provide a unique experience for buyers. We have also increased our employee number to more than 18 permanent employees and several casual workers. </p>
                                     </div>
                                 </div>
 
@@ -109,7 +109,7 @@ const Home = () => {
                                             <img src="images/bag.svg" alt="Easy to Shop" className="imf-fluid" />
                                         </div>
                                         <h3>Easy to Shop</h3>
-                                        <p>Donec vitae odio quis nisl dapibus malesuada. Nullam ac aliquet velit. Aliquam vulputate.</p>
+                                        <p>Kicks Kenya's dedicated staff, dynamic environment, and commitment to exceptional customer service all provide a unique experience for buyers. We have also increased our employee number to more than 18 permanent employees and several casual workers. </p>
                                     </div>
                                 </div>
 
@@ -119,7 +119,7 @@ const Home = () => {
                                             <img src="images/support.svg" alt="24/7 Support" className="imf-fluid" />
                                         </div>
                                         <h3>24/7 Support</h3>
-                                        <p>Donec vitae odio quis nisl dapibus malesuada. Nullam ac aliquet velit. Aliquam vulputate.</p>
+                                        <p>Kicks Kenya's dedicated staff, dynamic environment, and commitment to exceptional customer service all provide a unique experience for buyers. We have also increased our employee number to more than 18 permanent employees and several casual workers. </p>
                                     </div>
                                 </div>
 
@@ -129,7 +129,7 @@ const Home = () => {
                                             <img src="images/return.svg" alt="Hassle Free Returns" className="imf-fluid" />
                                         </div>
                                         <h3>Hassle Free Returns</h3>
-                                        <p>Donec vitae odio quis nisl dapibus malesuada. Nullam ac aliquet velit. Aliquam vulputate.</p>
+                                        <p>Kicks Kenya's dedicated staff, dynamic environment, and commitment to exceptional customer service all provide a unique experience for buyers. We have also increased our employee number to more than 18 permanent employees and several casual workers. </p>
                                     </div>
                                 </div>
 

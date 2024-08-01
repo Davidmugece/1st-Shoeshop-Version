@@ -38,11 +38,13 @@ const Footer = () => {
                 <div className="row g-5 mb-5">
                     <div className="col-lg-4">
                         <div className="mb-4 footer-logo-wrap">
-                            <a href="#" className="footer-logo">Furni<span>.</span></a>
+                            <a href="#" className="footer-logo">Nike<span>.</span></a>
                         </div>
                         <p className="mb-4">
-                            Donec facilisis quam ut purus rutrum lobortis. Donec vitae odio quis nisl dapibus malesuada. 
-                            Nullam ac aliquet velit. Aliquam vulputate velit imperdiet dolor tempor tristique. Pellentesque habitant
+                            Customer service is our number one priority. If you have any questions or concerns, please do not hesitate to contact us.
+                            Available Monday - Friday, 9AM - 5PM.
+                            Address: 123 Street Name, City, England
+                            phone: +44 123 456 7890
                         </p>
 
                         <ul className="list-unstyled custom-social">
@@ -83,9 +85,9 @@ const Footer = () => {
 
                             <div className="col-6 col-sm-6 col-md-3">
                                 <ul className="list-unstyled">
-                                    <li><a href="#">Nordic Chair</a></li>
-                                    <li><a href="#">Kruzo Aero</a></li>
-                                    <li><a href="#">Ergonomic Chair</a></li>
+                                    <li><a href="#">Nike</a></li>
+                                    <li><a href="#">Adidas</a></li>
+                                    <li><a href="#">Puma</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -96,9 +98,7 @@ const Footer = () => {
                     <div className="row pt-4">
                         <div className="col-lg-6">
                             <p className="mb-2 text-center text-lg-start">
-                                &copy; {new Date().getFullYear()}. All Rights Reserved. &mdash; Designed with love by 
-                                <a href="https://untree.co">Untree.co</a>  Distributed By 
-                                <a href="https://themewagon.com">ThemeWagon</a> 
+                                &copy; {new Date().getFullYear()}. All Rights Reserved. Designed with love by Nike
                             </p>
                         </div>
 
